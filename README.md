@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 / Rec: Windows 10/11 | macOS 11.0 or later |
+| **Processor** | Min: INTEL CORE I5-8400 or AMD RYZEN 3 3300X / Rec: INTEL CORE I7-8700K or AMD RYZEN 5 3600X | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 12 GB RAM / Rec: 16 GB RAM | 12 GB RAM |
+| **Graphics** | Min: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB / Rec: NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8… | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 60 GB available space | 60 GB available space |
+| **Sound Card** | Windows Compatible Audio Device | Windows Compatible Audio Device |
 
 ---
 
